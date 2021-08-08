@@ -1,6 +1,6 @@
 # Aplikasi Booking Online Jalur Pendakian Gunung Slamet
 Nine One One
-Cahya Aprilia Putranti as Project Manager
+<br>Cahya Aprilia Putranti as Project Manager
 Adelia Sannomiya as Analyst
 Rendi as Designer
 Hisyam Setiawan as Programmer
